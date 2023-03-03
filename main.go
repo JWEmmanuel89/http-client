@@ -1,5 +1,5 @@
 // Filename: main.go
-package main
+package go_httpclient
 
 import (
 	"fmt"
